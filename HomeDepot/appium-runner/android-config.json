@@ -1,0 +1,13 @@
+{
+  "address": "127.0.0.1",
+  "app":"src/app/The Seattle Times.apk",
+  "appPackage":"com.thehomedepot",
+  "appWaitPackage":"com.thehomedepot",
+  "automationName":"Appium",
+  "deviceName":"Pixel XL",
+  "debugLogSpacing": true,
+  "fullReset": true,
+  "platformName": "Android",
+  "platformVersion":"7.1",
+  "port": "4723"
+}

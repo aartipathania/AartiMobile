@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Seattle Times App Automation Test">
+
+    <parameter name="OS" value="Android"/>
+    <parameter name="appType" value="Phone"/>
+    <parameter name="deviceType" value="Emulator"/>
+    <parameter name="deviceName" value="Nexus"/>
+    <parameter name="version" value="5.1"/>
+    <parameter name="moduleName" value="SeattleTimes"/>
+    <parameter name="appName" value="The Seattle Times.apk"/>
+
+    <test name="GoToHomePage" preserve-order="true">
+        <classes>
+            <class name="testcases.TestHomePage"/>
+        </classes>
+    </test>
+
+</suite>

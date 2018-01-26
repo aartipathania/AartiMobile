@@ -1,0 +1,14 @@
+{
+  "address": "127.0.0.1",
+  "app":"src/app/The Seattle Times.apk",
+  "device": "Nexus6",
+  "appPackage":"com.seattletimes.android.SeattleTimesMobileNews",
+  "appWaitPackage":"com.seattletimes.android.SeattleTimesMobileNews",
+  "automationName":"Appium",
+  "deviceName":"Pixel XL",
+  "debugLogSpacing": true,
+  "fullReset": true,
+  "platformName": "Android",
+  "platformVersion":"7.1",
+  "port": "4723"
+}

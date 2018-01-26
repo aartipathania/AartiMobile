@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AartiMobile.iml" filepath="$PROJECT_DIR$/AartiMobile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generic/Generic.iml" filepath="$PROJECT_DIR$/Generic/Generic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HomeDepot/HomeDepot.iml" filepath="$PROJECT_DIR$/HomeDepot/HomeDepot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SeattleTimes/SeattleTimes.iml" filepath="$PROJECT_DIR$/SeattleTimes/SeattleTimes.iml" />
+    </modules>
+  </component>
+</project>
